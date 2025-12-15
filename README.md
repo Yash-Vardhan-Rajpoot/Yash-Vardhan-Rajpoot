@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I’m **Yash Vardhan Rajpoot**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Computer Science**.  
+I’m **Yash Vardhan Rajpoot**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Computer Science from NIT Patna**.  
 
 I love building clean, modern web applications and solving challenging algorithmic problems to sharpen my logical thinking.
 
