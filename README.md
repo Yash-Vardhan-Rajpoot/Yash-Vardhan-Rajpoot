@@ -24,9 +24,11 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ## 🏆 Achievements
 
+- 💼 Ex-Intern @ NitGyanam Consultancy
+- 🎓 Campus Ambassador @ Unstop
 - 🥇 Active in **Competitive Programming & DSA Challenges**  
 - 🔥 Campus Projects & Hackathons Participant  
-- 💻 Contributor to Open Source Projects  
+- 💻 Contributor to Open Source Projects
 
 ---
 
