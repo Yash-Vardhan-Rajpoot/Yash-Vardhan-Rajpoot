@@ -92,7 +92,7 @@ I love building clean, modern web applications and solving challenging algorithm
 ## 📫 Contact
 
 - 🌐 Portfolio: *(coming soon)*  
-- 💼 LinkedIn: [https://www.linkedin.com/in/yashvardhanrajpoot/](https://www.linkedin.com/in/yashvardhanrajpoot/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/](https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/)  
 - 📧 Email: *(yashvardhanrajpoot15@gmail.com)*  
 
 ---
