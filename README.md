@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashvardhanrajpoot&format=true" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yash-Vardhan-Rajpoot&format=true" />
 </div>
 
 <p align="center">
@@ -51,10 +51,11 @@ I love building clean, modern web applications and solving challenging algorithm
 
 | Category | Skills & Icons |
 |----------|----------------|
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Data & ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge) |
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) |
 
 ---
@@ -73,9 +74,9 @@ I love building clean, modern web applications and solving challenging algorithm
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashvardhanrajpoot15&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
-  <img src="https://streak-stats.vercel.app?user=yashvardhanrajpoot15&theme=tokyonight&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhanrajpoot15&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Vardhan-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=Yash-Vardhan-Rajpoot&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Vardhan-Rajpoot&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
 </div>
 
 ---
@@ -91,7 +92,7 @@ I love building clean, modern web applications and solving challenging algorithm
 ## 📫 Contact
 
 - 🌐 Portfolio: *(coming soon)*  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/yashvardhanrajpoot/)*  
+- 💼 LinkedIn: [https://www.linkedin.com/in/yashvardhanrajpoot/](https://www.linkedin.com/in/yashvardhanrajpoot/)  
 - 📧 Email: *(yashvardhanrajpoot15@gmail.com)*  
 
 ---
