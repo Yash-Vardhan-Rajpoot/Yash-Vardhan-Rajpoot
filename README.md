@@ -16,19 +16,19 @@
 
 ## 👋 About Me
 
-I’m **Yash Vardhan Rajpoot**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Computer Science from NIT Patna**.  
+I’m **Yash Vardhan Rajpoot**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Computer Science from NIT Patna**.
 
-I love building clean, modern web applications and solving challenging algorithmic problems to sharpen my logical thinking.
+I enjoy building clean, modern applications and solving challenging algorithmic problems to sharpen my logical thinking.
 
 ---
 
 ## 🏆 Achievements
 
-- 💼 Ex-Intern @ NitGyanam Consultancy
-- 🎓 Campus Ambassador @ Unstop
+- 💼 Ex-Intern @ NitGyanam Consultancy  
+- 🎓 Campus Ambassador @ Unstop  
 - 🥇 Active in **Competitive Programming & DSA Challenges**  
 - 🔥 Campus Projects & Hackathons Participant  
-- 💻 Contributor to Open Source Projects
+- 💻 Contributor to Open Source Projects  
 
 ---
 
@@ -37,7 +37,7 @@ I love building clean, modern web applications and solving challenging algorithm
 - 🔥 Solved **1000+ DSA & CP problems**  
 - ⚡ **4⭐ on HackerRank**  
 - 🎯 **1606 Rating on LeetCode**  
-- ⭐ Campus-level contests and practice sessions  
+- ⭐ Regular participant in contests  
 
 ### 🌐 Coding Profiles
 
@@ -51,14 +51,14 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ## 💻 Tech Stack
 
-| Category | Skills & Icons |
-|----------|----------------|
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Data & ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) |
+| Category | Skills |
+|--------|--------|
+| **Languages** | C++ • Java • JavaScript • Python |
+| **Frontend** | HTML • CSS |
+| **Backend** | Node.js • Express.js |
+| **Databases** | MongoDB |
+| **Data & ML** | NumPy • Pandas • Scikit-learn |
+| **Tools** | Git • GitHub • Docker |
 
 ---
 
@@ -66,18 +66,25 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ### 🚗 Car Price Prediction — Machine Learning Model
 > A predictive model to estimate car prices based on features like mileage, year, fuel type, and engine specifications.  
-> The app allows users to input car details and get an accurate price prediction instantly.
+> Users can input car details and get instant price predictions through a web interface.
 
 **Skills Highlighted:** Machine Learning • Data Preprocessing • Regression Analysis • Web App Integration  
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Streamlit
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Streamlit  
 
-###🩺 Agentic RAG MediBot — AI-Powered Medical Assistant
+🔗 **GitHub Repo:**  
+https://github.com/Yash-Vardhan-Rajpoot/Car-Price-Prediction
 
-An intelligent medical chatbot that answers user queries using Retrieval-Augmented Generation (RAG) over trusted medical documents.
-The system retrieves relevant knowledge from PDFs using FAISS vector search and generates accurate, context-grounded responses via a Hugging Face LLM, all through an interactive Streamlit web app.
+---
 
-**Skills Highlighted: Agentic RAG • Vector Databases • Semantic Search • Prompt Engineering • LLM Integration
-Tech: Python • LangChain • Hugging Face • FAISS • Sentence-Transformers • Streamlit • Docker
+### 🩺 Agentic RAG MediBot — AI-Powered Medical Assistant
+> An intelligent medical chatbot that answers user queries using **Retrieval-Augmented Generation (RAG)** over trusted medical documents.  
+> The system retrieves relevant knowledge from PDFs using **FAISS vector search** and generates accurate, context-grounded responses via a **Hugging Face LLM**, delivered through an interactive **Streamlit web app**.
+
+**Skills Highlighted:** Agentic RAG • Vector Databases • Semantic Search • Prompt Engineering • LLM Integration  
+**Tech:** Python • LangChain • Hugging Face • FAISS • Sentence-Transformers • Streamlit • Docker  
+
+🔗 **GitHub Repo:**  
+https://github.com/Yash-Vardhan-Rajpoot/MedicalAssistant
 
 ---
 
@@ -101,9 +108,8 @@ Tech: Python • LangChain • Hugging Face • FAISS • Sentence-Transformers 
 
 ## 📫 Contact
 
-- 🌐 Portfolio: *(coming soon)*  
-- 💼 LinkedIn: [https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/](https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/)  
-- 📧 Email: *(yashvardhanrajpoot15@gmail.com)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/  
+- 📧 Email: yashvardhanrajpoot15@gmail.com  
 
 ---
 
