@@ -71,6 +71,14 @@ I love building clean, modern web applications and solving challenging algorithm
 **Skills Highlighted:** Machine Learning • Data Preprocessing • Regression Analysis • Web App Integration  
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Streamlit
 
+###🩺 Agentic RAG MediBot — AI-Powered Medical Assistant
+
+An intelligent medical chatbot that answers user queries using Retrieval-Augmented Generation (RAG) over trusted medical documents.
+The system retrieves relevant knowledge from PDFs using FAISS vector search and generates accurate, context-grounded responses via a Hugging Face LLM, all through an interactive Streamlit web app.
+
+**Skills Highlighted: Agentic RAG • Vector Databases • Semantic Search • Prompt Engineering • LLM Integration
+Tech: Python • LangChain • Hugging Face • FAISS • Sentence-Transformers • Streamlit • Docker
+
 ---
 
 ## 📈 GitHub Stats
