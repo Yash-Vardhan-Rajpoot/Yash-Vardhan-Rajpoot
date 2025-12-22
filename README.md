@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I’m **Yash Vardhan Rajpoot**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Computer Science from NIT Patna currently having 9 above cgpa**.
+I’m **Yash Vardhan Rajpoot**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Computer Science from NIT Patna (CGPA 9+)**.
 
 I enjoy building clean, modern applications and solving challenging algorithmic problems to sharpen my logical thinking.
 
@@ -24,7 +24,7 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🏆 Achievements
 
-- codolio- https://codolio.com/profile/Yash%20Vardhan%20Rajput
+- 🔗 Codolio: https://codolio.com/profile/Yash%20Vardhan%20Rajput  
 - 💼 Ex-Intern @ NitGyanam Consultancy  
 - 🎓 Campus Ambassador @ Unstop  
 - 🥇 Active in **Competitive Programming & DSA Challenges**  
@@ -35,10 +35,10 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🧠 Competitive Programming
 
-- 🔥 Solved **1000+ DSA & CP problems**  
-- ⚡ **4⭐ on HackerRank**  
-- 🎯 **1606 Rating on LeetCode**  
-- ⭐ Regular participant in contests  
+- 🔥 Solved **1000+ DSA & CP problems**
+- ⚡ **4⭐ on HackerRank**
+- 🎯 **1606 Rating on LeetCode**
+- ⭐ Regular contest participant
 
 ### 🌐 Coding Profiles
 
@@ -65,11 +65,26 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🚀 Projects
 
-### 🚗 Car Price Prediction — Machine Learning Model
-> A predictive model to estimate car prices based on features like mileage, year, fuel type, and engine specifications.  
-> Users can input car details and get instant price predictions through a web interface.
+### 🏡 FineHomes — Property Listing & Rental Platform (MERN)
+> A full-stack MERN web application that allows users to browse rental properties and hosts to list, manage, and showcase homes with image uploads.  
+> The project emphasizes **backend architecture, session-based authentication, file handling, and MongoDB integration**.
 
-**Skills Highlighted:** Machine Learning • Data Preprocessing • Regression Analysis • Web App Integration  
+**Skills Highlighted:** MERN Stack • Session Authentication • REST APIs • MVC Architecture • File Uploads  
+**Tech:** Node.js • Express.js • MongoDB Atlas • EJS • Multer • express-session  
+
+🔗 **GitHub Repo:**  
+https://github.com/Yash-Vardhan-Rajpoot  
+
+🌐 **Live Demo:**  
+https://fine-homes.onrender.com  
+
+---
+
+### 🚗 Car Price Prediction — Machine Learning Model
+> A predictive model to estimate car prices based on mileage, year, fuel type, and engine specifications.  
+> Users can input car details and get instant price predictions via a web interface.
+
+**Skills Highlighted:** Machine Learning • Regression • Data Preprocessing  
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Streamlit  
 
 🔗 **GitHub Repo:**  
@@ -78,11 +93,11 @@ https://github.com/Yash-Vardhan-Rajpoot/Car-Price-Prediction
 ---
 
 ### 🩺 Agentic RAG MediBot — AI-Powered Medical Assistant
-> An intelligent medical chatbot that answers user queries using **Retrieval-Augmented Generation (RAG)** over trusted medical documents.  
-> The system retrieves relevant knowledge from PDFs using **FAISS vector search** and generates accurate, context-grounded responses via a **Hugging Face LLM**, delivered through an interactive **Streamlit web app**.
+> An intelligent medical chatbot using **Retrieval-Augmented Generation (RAG)** over trusted medical documents.  
+> Uses **FAISS vector search** and a **Hugging Face LLM** to deliver accurate, document-grounded responses via a Streamlit UI.
 
-**Skills Highlighted:** Agentic RAG • Vector Databases • Semantic Search • Prompt Engineering • LLM Integration  
-**Tech:** Python • LangChain • Hugging Face • FAISS • Sentence-Transformers • Streamlit • Docker  
+**Skills Highlighted:** Agentic RAG • Vector Databases • Semantic Search • LLM Integration  
+**Tech:** Python • LangChain • Hugging Face • FAISS • Streamlit • Docker  
 
 🔗 **GitHub Repo:**  
 https://github.com/Yash-Vardhan-Rajpoot/MedicalAssistant
@@ -109,8 +124,8 @@ https://github.com/Yash-Vardhan-Rajpoot/MedicalAssistant
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/  
-- 📧 Email: yashvardhanrajpoot15@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-vardhan-rajpoot-127400276/
+- 📧 Email: yashvardhanrajpoot15@gmail.com
 
 ---
 
