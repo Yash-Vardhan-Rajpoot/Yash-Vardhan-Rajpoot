@@ -73,7 +73,7 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 **Tech:** Node.js • Express.js • MongoDB Atlas • EJS • Multer • express-session  
 
 🔗 **GitHub Repo:**  
-https://github.com/Yash-Vardhan-Rajpoot  
+[https://github.com/Yash-Vardhan-Rajpoot ](https://github.com/Yash-Vardhan-Rajpoot/FineHome) 
 
 🌐 **Live Demo:**  
 https://fine-homes.onrender.com  
@@ -90,6 +90,10 @@ https://fine-homes.onrender.com
 🔗 **GitHub Repo:**  
 https://github.com/Yash-Vardhan-Rajpoot/Car-Price-Prediction
 
+🌐 **Live Demo:**  
+https://car-price-prediction-3n4m.onrender.com
+
+
 ---
 
 ### 🩺 Agentic RAG MediBot — AI-Powered Medical Assistant
@@ -100,7 +104,11 @@ https://github.com/Yash-Vardhan-Rajpoot/Car-Price-Prediction
 **Tech:** Python • LangChain • Hugging Face • FAISS • Streamlit • Docker  
 
 🔗 **GitHub Repo:**  
-https://github.com/Yash-Vardhan-Rajpoot/MedicalAssistant
+https://github.com/Yash-Vardhan-Rajpoot/MedicalAssistant1
+
+🌐 **Live Demo:**  
+https://medicalassistant1-sp7okhylpxvvs7rwnms9jb.streamlit.app/
+
 
 ---
 
