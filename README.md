@@ -98,7 +98,7 @@ https://car-price-prediction-3n4m.onrender.com
 
 ### 🩺 Agentic RAG MediBot — AI-Powered Medical Assistant
 > An intelligent medical chatbot using **Retrieval-Augmented Generation (RAG)** over trusted medical documents.  
-> Uses **FAISS vector search** and a **Hugging Face LLM** to deliver accurate, document-grounded responses via a Streamlit UI.
+> Uses **PINECONE vector search** and a **Hugging Face LLM** to deliver accurate, document-grounded responses via a Streamlit UI.
 
 **Skills Highlighted:** Agentic RAG • Vector Databases • Semantic Search • LLM Integration  
 **Tech:** Python • LangChain • Hugging Face • FAISS • Streamlit • Docker  
