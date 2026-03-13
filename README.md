@@ -65,6 +65,23 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🚀 Projects
 
+### 🧠 Multimodal Misinformation Classifier (Vision–Language AI)
+
+> A multimodal AI system that detects potential misinformation by analyzing the **semantic alignment between an image and its caption** using a pretrained vision–language model.  
+> The project demonstrates **multimodal embeddings, similarity analysis, and an interactive ML web interface** for real-time misinformation detection.
+
+**Skills Highlighted:** Multimodal AI • Vision–Language Models • Embedding Similarity • ML Deployment • Interactive AI Applications  
+
+**Tech:** Python • PyTorch • Transformers • CLIP • NumPy • Pillow • Streamlit  
+
+🔗 **GitHub Repo:**  
+[https://github.com/Yash-Vardhan-Rajpoot/Multimodal_Misinformation_classifier](https://github.com/Yash-Vardhan-Rajpoot/Multimodal_Misinformation_classifier)
+
+🌐 **Live Demo:**  
+https://multimodalmisinformationclassifier.streamlit.app/
+
+---
+
 ### 🏡 FineHomes — Property Listing & Rental Platform (MERN)
 > A full-stack MERN web application that allows users to browse rental properties and hosts to list, manage, and showcase homes with image uploads.  
 > The project emphasizes **backend architecture, session-based authentication, file handling, and MongoDB integration**.
