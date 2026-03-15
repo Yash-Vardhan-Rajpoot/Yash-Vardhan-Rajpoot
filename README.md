@@ -35,7 +35,7 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🧠 Competitive Programming
 
-- 🔥 Solved **1000+ DSA & CP problems**
+- 🔥 Solved **1300+ DSA & CP problems**
 - ⚡ **4⭐ on HackerRank**
 - 🎯 **1606 Rating on LeetCode**
 - ⭐ Regular contest participant
@@ -65,20 +65,21 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🚀 Projects
 
-### 🧠 Multimodal Misinformation Classifier (Vision–Language AI)
+### 🖼️ Image Caption Ranking System (Vision–Language AI)
 
-> A multimodal AI system that detects potential misinformation by analyzing the **semantic alignment between an image and its caption** using a pretrained vision–language model.  
-> The project demonstrates **multimodal embeddings, similarity analysis, and an interactive ML web interface** for real-time misinformation detection.
+> A multimodal AI system that ranks candidate captions for a given image by analyzing the **semantic similarity between the image and text descriptions** using a pretrained vision–language model.
+> The project demonstrates **multimodal embeddings, similarity scoring, and an interactive ML web interface** for real-time caption ranking.
 
-**Skills Highlighted:** Multimodal AI • Vision–Language Models • Embedding Similarity • ML Deployment • Interactive AI Applications  
+**Skills Highlighted:** Multimodal AI • Vision–Language Models • Embedding Similarity • Ranking Systems • ML Deployment • Interactive AI Applications
 
-**Tech:** Python • PyTorch • Transformers • CLIP • NumPy • Pillow • Streamlit  
+**Tech:** Python • PyTorch • Transformers • CLIP • NumPy • Pillow • Streamlit
 
-🔗 **GitHub Repo:**  
-[https://github.com/Yash-Vardhan-Rajpoot/Multimodal_Misinformation_classifier](https://github.com/Yash-Vardhan-Rajpoot/Multimodal_Misinformation_classifier)
+🔗 **GitHub Repo:**
+https://github.com/Yash-Vardhan-Rajpoot/Multimodal_Misinformation_classifier
 
-🌐 **Live Demo:**  
-https://multimodalmisinformationclassifier.streamlit.app/
+🌐 **Live Demo:**
+https://multimodalimagecaptionrankingsystem.streamlit.app/
+
 
 ---
 
