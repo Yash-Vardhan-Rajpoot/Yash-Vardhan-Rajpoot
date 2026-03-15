@@ -52,14 +52,16 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 💻 Tech Stack
 
-| Category | Skills |
-|--------|--------|
-| **Languages** | C++ • Java • JavaScript • Python |
-| **Frontend** | HTML • CSS |
-| **Backend** | Node.js • Express.js |
-| **Databases** | MongoDB |
-| **Data & ML** | NumPy • Pandas • Scikit-learn |
-| **Tools** | Git • GitHub • Docker |
+| Category             | Skills                                                        |
+| -------------------- | ------------------------------------------------------------- |
+| **Languages**        | C++ • Java • JavaScript • Python                              |
+| **Frontend**         | HTML • CSS • Streamlit                                        |
+| **Backend**          | Node.js • Express.js                                          |
+| **Databases**        | MongoDB                                                       |
+| **Data & ML**        | NumPy • Pandas • Scikit-learn • PyTorch • Transformers • CLIP |
+| **Image Processing** | Pillow                                                        |
+| **Tools**            | Git • GitHub • Docker                                         |
+
 
 ---
 
