@@ -38,7 +38,8 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 - 🔥 Solved **1500+ DSA & CP problems**
 - ⚡ **4⭐ on HackerRank**
-- 🎯 **1700 Rating on LeetCode**
+- 🎯 **pupil**@**codeforces**
+- 🎯 **1700+ Rating on LeetCode**
 - ⭐ Regular contest participant
 
 ### 🌐 Coding Profiles
