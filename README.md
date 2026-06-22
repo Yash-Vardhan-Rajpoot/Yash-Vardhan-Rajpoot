@@ -25,7 +25,7 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 ## 🏆 Achievements
 
 - 🔗 Codolio: https://codolio.com/profile/Yash%20Vardhan%20Rajput
-- 💼 Upcoming Intern @ Accenture
+- 💼 Intern @ Accenture
 - 💼 Ex-Intern @ NitGyanam Consultancy  
 - 🎓 Campus Ambassador @ Unstop  
 - 🥇 Active in **Competitive Programming & DSA Challenges**  
