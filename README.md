@@ -36,9 +36,9 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🧠 Competitive Programming
 
-- 🔥 Solved **1300+ DSA & CP problems**
+- 🔥 Solved **1500+ DSA & CP problems**
 - ⚡ **4⭐ on HackerRank**
-- 🎯 **1606 Rating on LeetCode**
+- 🎯 **1700 Rating on LeetCode**
 - ⭐ Regular contest participant
 
 ### 🌐 Coding Profiles
@@ -58,7 +58,7 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 | **Languages**        | C++ • Java • JavaScript • Python                              |
 | **Frontend**         | HTML • CSS • Streamlit                                        |
 | **Backend**          | Node.js • Express.js                                          |
-| **Databases**        | MongoDB                                                       |
+| **Databases**        | MongoDB • PostgreSQL                                                      |
 | **Data & ML**        | NumPy • Pandas • Scikit-learn • PyTorch • Transformers • CLIP |
 | **Image Processing** | Pillow                                                        |
 | **Tools**            | Git • GitHub • Docker                                         |
@@ -67,6 +67,23 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 ---
 
 ## 🚀 Projects
+
+### 🔗 URL Semantic Grouping System (NLP-Powered Semantic Clustering)
+
+> An AI-powered system that automatically groups webpages into **semantically related categories** by analyzing the textual content of URLs using transformer-based sentence embeddings.
+> The project demonstrates **semantic similarity modeling, unsupervised clustering, and an interactive ML web interface** for intelligent web content organization.
+
+**Skills Highlighted:** NLP • Semantic Search • Sentence Embeddings • Clustering • Information Retrieval • ML Deployment • Interactive AI Applications
+
+**Tech:** Python • Sentence Transformers • Scikit-learn • BeautifulSoup • Requests • NumPy • Streamlit
+
+🔗 **GitHub Repo:**
+https://github.com/Yash-Vardhan-Rajpoot/URLs_Semantic_Grouping_System
+
+🌐 **Live Demo:**
+(Add your deployed Streamlit link here)
+
+---
 
 ### 🖼️ Image Caption Ranking System (Vision–Language AI)
 
