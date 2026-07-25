@@ -25,9 +25,10 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 ## 🏆 Achievements
 
 - 🔗 Codolio: https://codolio.com/profile/Yash%20Vardhan%20Rajput
-- 💼 Intern @ Accenture
-- 💼 Ex-Intern @ NitGyanam Consultancy  
-- 🎓 Campus Ambassador @ Unstop  
+- 💼 Former Intern @ Accenture
+- 💼 Former Intern @ NitGyanam Consultancy  
+- 🎓 Campus Ambassador @ Unstop
+- 🎓 Selected for Amazon MLSS'26
 - 🥇 Active in **Competitive Programming & DSA Challenges**  
 - 🔥 Campus Projects & Hackathons Participant  
 - 💻 Contributor to Open Source Projects  
@@ -36,11 +37,10 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🧠 Competitive Programming
 
-- 🔥 Solved **1500+ DSA & CP problems**
+- 🔥 Solved **1600+ DSA & CP problems**
 - ⚡ **4⭐ on HackerRank**
 - 🎯 **pupil**@**codeforces**
 - 🎯 **1700+ Rating on LeetCode**
-- ⭐ Regular contest participant
 
 ### 🌐 Coding Profiles
 
