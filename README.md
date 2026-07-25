@@ -69,6 +69,44 @@ I enjoy building clean, modern applications and solving challenging algorithmic 
 
 ## 🚀 Projects
 
+# 🩺 MediConnect - Interactive Medical Hub & Smart Healthcare Platform
+
+> A full-stack healthcare platform designed to streamline patient-provider interactions through secure authentication, role-based access control, and dynamic REST APIs.
+> The project demonstrates **secure backend architecture, responsive frontend development, and real-time data management** for modern healthcare solutions.
+
+---
+
+## 🚀 Key Features
+
+* **Secure Authentication & Authorization:** Implements robust user sign-up, login, and role-based access control to protect sensitive medical data.
+* **Patient-Provider Workflow:** Streamlines communication and data sharing between patients and healthcare professionals.
+* **RESTful API Integration:** Connects a dynamic frontend interface with a reliable backend architecture for seamless data retrieval and updates.
+* **Responsive UI/UX:** Clean, intuitive interface built for accessibility across various devices.
+
+---
+
+## 🛠️ Skills Highlighted
+
+Full-Stack Development • RESTful APIs • Role-Based Access Control • Frontend Architecture • Secure Authentication • Database Management • Cloud Deployment
+
+---
+
+## 💻 Tech Stack
+
+* **Frontend:** React.js, HTML5, CSS3, JavaScript
+* **Backend:** Python / Node.js, REST APIs
+* **Database & Security:** Firebase Security, Role-Based Access
+* **Deployment:** Vercel (Frontend)
+
+---
+
+## 🔗 Project Links
+
+* **Frontend Repository:** [mediconnect-frontend](https://github.com/Yash-Vardhan-Rajpoot/mediconnect-frontend)
+* **Backend Repository:** [mediconnect-backend](https://github.com/Yash-Vardhan-Rajpoot/mediconnect-backend)
+* **Live Demo:** [MediConnect Live App](https://mediconnect-frontendss.vercel.app/)
+
+---
 ### 🔗 URL Semantic Grouping System (NLP-Powered Semantic Clustering)
 
 > An AI-powered system that automatically groups webpages into **semantically related categories** by analyzing the textual content of URLs using transformer-based sentence embeddings.
