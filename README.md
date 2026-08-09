@@ -13,8 +13,9 @@
 </p>
 
 ---
-![Pixel Art of Yash](https://github.com/Yash-Vardhan-Rajpoot/images/blob/main/pixel_art.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yash-Vardhan-Rajpoot/images/main/pixel_art.png" width="180">
+</p>
 ---
 
 ## 👋 About Me
