@@ -14,8 +14,9 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yash-Vardhan-Rajpoot/images/main/pixel_art.png" width="180">
+  <img src="https://raw.githubusercontent.com/Yash-Vardhan-Rajpoot/images/main/pixel_art.png" width="300">
 </p>
+
 ---
 
 ## 👋 About Me
