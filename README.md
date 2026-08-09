@@ -13,7 +13,7 @@
 </p>
 
 ---
-![Pixel Art of Yash](https://drive.google.com/file/d/1OHXJatPxPhVze7vMwEu5VU8IzSlu_tXq/view?usp=sharing)
+![Pixel Art of Yash](pixel_art.png)
 
 ---
 
