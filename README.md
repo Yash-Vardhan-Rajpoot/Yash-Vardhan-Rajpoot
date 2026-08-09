@@ -13,7 +13,7 @@
 </p>
 
 ---
-![Pixel Art of Yash](pixel_art.png)
+![Pixel Art of Yash](https://github.com/Yash-Vardhan-Rajpoot/images/blob/main/pixel_art.png)
 
 ---
 
